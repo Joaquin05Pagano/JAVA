@@ -16,6 +16,6 @@ public class Ejercicio2 {
 				numvocales++;
 			}
 		}
-	System.out.println("La palabra " + nombre + "tiene " + numvocales + " vocales.");
+	System.out.println("La palabra " + nombre + " tiene " + numvocales + " vocales.");
 	}
 }
